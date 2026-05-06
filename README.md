@@ -18,6 +18,11 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [DevHunt](https://devhunt.org/) – Developer-focused platform for launching and discovering tech products.
 - [TinyLaunch](https://www.tinylaunch.com/) – A lightweight product launch and discovery platform focused on indie makers and early-stage products.
 - [RankInPublic](https://rankinpublic.xyz/) – Launch your SaaS in weekly tournaments with 1v1 matchups and community votes.
+- [Aura++](https://auraplusplus.com) – Launch and promote your AI products, startups, and digital tools to a growing audience.
+- [IndieHunt](https://indiehunt.io) – Discover and promote indie-made products, tools, and side projects.
+- [EarlyHunt](https://earlyhunt.com) – A launch platform focused on early-stage startups and getting initial traction.
+- [MakerHunt](https://makerhunt.io) – A curated space for makers to launch and explore new products.
+- [SideHunt](https://sidehunt.io) – A discovery platform for side projects and indie hacker creations.
 
 ---
 
