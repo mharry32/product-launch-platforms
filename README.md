@@ -94,6 +94,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Startup Fame](https://startupfa.me) – Product listings and startup discovery.
 - [Findly Tools](https://findly.tools) – Tool discovery and backlink listings.
 - [AIWith.me](https://aiwith.me) – AI and tool showcase platform.
+- [SaaSCity](https://saascity.io) – Gamified SaaS directory where every listing becomes a building on a live isometric city map.
 
 ---
 
