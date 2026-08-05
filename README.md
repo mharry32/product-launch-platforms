@@ -96,6 +96,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Findly Tools](https://findly.tools) – Tool discovery and backlink listings.
 - [AIWith.me](https://aiwith.me) – AI and tool showcase platform.
 - [SaaSCity](https://saascity.io) – Gamified SaaS directory where every listing becomes a building on a live isometric city map.
+- [Mydentify](https://mydentify.com) – Goal-based product discovery with reviewed listings and a researched launch-directory catalog.
 
 ---
 
