@@ -40,6 +40,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [MagicBox Tools](https://magicbox.tools/) – Curated tools and startup products.
 - [Twelve Tools](https://twelve.tools/) – Directory of useful tools for founders and builders.
 - [AIWget](https://aiwget.com) – Curated directory for discovering AI agents, workflow automation tools, and creative AI products.
+- [AISOTools](https://aisotools.com) – AI tools directory with a free listing plus AI-search visibility monitoring, so makers can see whether ChatGPT and Perplexity actually recommend their tool.
 
 ---
 
@@ -96,6 +97,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [Findly Tools](https://findly.tools) – Tool discovery and backlink listings.
 - [AIWith.me](https://aiwith.me) – AI and tool showcase platform.
 - [SaaSCity](https://saascity.io) – Gamified SaaS directory where every listing becomes a building on a live isometric city map.
+- [Mydentify](https://mydentify.com) – Goal-based product discovery with reviewed listings and a researched launch-directory catalog.
 
 ---
 
